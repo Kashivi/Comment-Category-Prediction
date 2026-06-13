@@ -8,4 +8,3 @@ Built a machine learning model to classify user comments into categories(Supervi
 • Achieved 0.81 accuracy on validation data.  
 • Analyzed model performance and identified key factors affecting prediction accuracy.  
 
-(Note: Project is currently private due to academic evaluation and will be made public after grading.)
